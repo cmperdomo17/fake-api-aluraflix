@@ -87,14 +87,6 @@
             "image": "/img-card-devops-2.png",
             "video": "https://www.youtube.com/watch?v=6drqytIiSHU",
             "description": "Segunda parte de la Escuela DevOps: ¿Por qué es importante DevOps? ¿Cuáles son las ventajas de utilizar DevOps en tu empresa? ¿Cuáles son las herramientas más utilizadas en el mercado? En este video, Jeanmarie Quijada, instructora DevOps en Alura Latam, te explica qué hace el equipo de DevOps."
-        },
-        {
-            "id": 12,
-            "title": "Escola Devops 3",
-            "category": "Frontend",
-            "image": "/img-card-devops-3.jpeg",
-            "video": "https://www.youtube.com/watch?v=6drqytIiSHU",
-            "description": "Tercera parte de la Escuela DevOps: ¿Por qué es importante DevOps? ¿Cuáles son las ventajas de utilizar DevOps en tu empresa? ¿Cuáles son las herramientas más utilizadas en el mercado? En este video, Jeanmarie Quijada, instructora DevOps en Alura Latam, te explica qué hace el equipo de DevOps."
         }
     ]
 }
