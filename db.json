@@ -2,7 +2,7 @@
   "card": [
     {
       "id": 1,
-      "title": "Cuando usar let, var y const en JavaScript jeje",
+      "title": "Cuando usar let, var y const en JavaScript jejexdxddd",
       "category": "FRONTEND",
       "image": "/img-card-front-1.jpeg",
       "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "title": "Equipo Front End #AluraMás",
+      "title": "Equipo Front End #AluraMás jeje",
       "category": "FRONTEND",
       "image": "/img-card-front-3.jpeg",
       "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
@@ -87,6 +87,24 @@
       "image": "/img-card-devops-2.png",
       "video": "https://www.youtube.com/watch?v=6drqytIiSHU",
       "description": "Segunda parte de la Escuela DEVOPS: ¿Por qué es importante DEVOPS? ¿Cuáles son las ventajas de utilizar DEVOPS en tu empresa? ¿Cuáles son las herramientas más utilizadas en el mercado? En este video, Jeanmarie Quijada, instructora DEVOPS en Alura Latam, te explica qué hace el equipo de DEVOPS."
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "FRONTEND"
+    },
+    {
+      "id": 2,
+      "name": "BACKEND"
+    },
+    {
+      "id": 3,
+      "name": "FULLSTACK"
+    },
+    {
+      "id": 4,
+      "name": "DEVOPS"
     }
   ]
 }

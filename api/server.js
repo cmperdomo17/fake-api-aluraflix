@@ -8,8 +8,9 @@ server.use(middlewares)
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
     '/api/*': '/$1',
-    '/card/:resource/:id/show': '/:resource/:id'
-}))
+    '/cards/:id/show': '/cards/:id', // Acceso directo a una tarjeta por ID
+    '/categories/:id/show': '/categories/:id' // Acceso directo a una categoría por ID
+}));
 server.use(router)
 server.listen(3000, () => {
     console.log('JSON Server is running')
