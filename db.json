@@ -79,14 +79,6 @@
       "image": "/img-card-devops-1.jpeg",
       "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "description": "Escuela DevOps: ¿Qué es DevOps? ¿Cuáles son las tecnologías más utilizadas en el mercado? ¿Cuáles son las habilidades necesarias para ser un desarrollador DevOps? En este video, Jeanmarie Quijada, instructora DevOps en Alura Latam, te explica qué hace el equipo de DevOps."
-    },
-    {
-      "id": 11,
-      "title": "Escola Devops 2",
-      "category": "DEVOPS",
-      "image": "/img-card-devops-2.png",
-      "video": "https://www.youtube.com/watch?v=6drqytIiSHU",
-      "description": "Segunda parte de la Escuela DevOps: ¿Por qué es importante DevOps? ¿Cuáles son las ventajas de utilizar DevOps en tu empresa? ¿Cuáles son las herramientas más utilizadas en el mercado? En este video, Jeanmarie Quijada, instructora DevOps en Alura Latam, te explica qué hace el equipo de DevOps."
     }
   ],
   "category": [
